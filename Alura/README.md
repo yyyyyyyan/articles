@@ -1,4 +1,4 @@
-# Artigos publicados na Alura (23):
+# Artigos publicados na Alura:
 
 - (22/03/2018) [Python `datetime`: Lidando com datas e horários](https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python) [[archive.org](https://web.archive.org/web/20200908231149/https%3A%2F%2Fwww.alura.com.br%2Fartigos%2Flidando-com-datas-e-horarios-no-python)]
 - (12/04/2018) [A diferença das funções `input()` e `raw_input()` no Python](https://www.alura.com.br/artigos/a-diferenca-das-funcoes-input-e-raw-input-no-python) [[archive.org](https://web.archive.org/web/20200908230401/https%3A%2F%2Fwww.alura.com.br%2Fartigos%2Fa-diferenca-das-funcoes-input-e-raw-input-no-python)]
